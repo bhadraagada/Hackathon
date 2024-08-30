@@ -115,7 +115,6 @@ const AboutUs = () => {
               <textarea
                 placeholder="How can we collaborate?"
                 className="w-full p-3 rounded-lg border border-gray-300 text-gray-800 focus:outline-none focus:ring-2 focus:ring-blue-500"
-                rows="4"
               />
             </div>
             <button
