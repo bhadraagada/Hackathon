@@ -24,7 +24,7 @@ const Impact = () => {
             At SureShare, we are dedicated to creating real-world solutions for pressing challenges. By optimizing the public distribution of food and essential supplies, we ensure that these vital resources reach those who need them most.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed">
-            Our initiatives reduce hunger, alleviate poverty, and promote community well-being. Through innovative tracking and transparent processes, we empower communities, build trust, and make a meaningful impact in people's lives every day.
+            Our initiatives reduce hunger, alleviate poverty, and promote community well-being. Through innovative tracking and transparent processes, we empower communities, build trust, and make a meaningful impact in people&apos;s lives every day.
           </p>
         </div>
       </div>
