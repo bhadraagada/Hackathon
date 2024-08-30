@@ -186,3 +186,42 @@ export const stages = [
     ],
   },
 ];
+
+export const features = [
+  {
+    title: 'Blockchain Security',
+    description: 'Ensure transparency and security in public distribution through immutable blockchain records.',
+  },
+  {
+    title: 'Real-Time Tracking',
+    description: 'Monitor the distribution process in real-time to prevent leaks and ensure resources reach the right beneficiaries.',
+  },
+  {
+    title: 'Smart Contracts',
+    description: 'Automate the release of resources based on predefined criteria, minimizing human intervention and errors.',
+  },
+  {
+    title: 'User-Friendly Interface',
+    description: 'Easy-to-use platform for both administrators and beneficiaries, ensuring accessibility for all users.',
+  },
+  {
+    title: 'Scalability',
+    description: 'Designed to handle large-scale distribution programs, adaptable to various regions and requirements.',
+  },
+  {
+    title: 'Data Analytics',
+    description: 'Leverage detailed analytics to optimize resource allocation, predict needs, and improve overall efficiency.',
+  },
+  {
+    title: 'Multi-Channel Notifications',
+    description: 'Keep stakeholders informed via SMS, email, or app notifications to enhance communication and transparency.',
+  },
+  {
+    title: 'Customizable Reports',
+    description: 'Generate tailored reports for different stakeholders, providing insights into distribution performance and impact.',
+  },
+  {
+    title: 'Advanced Security Protocols',
+    description: 'Implement cutting-edge security measures to protect sensitive data and ensure compliance with industry standards.',
+  },
+];
