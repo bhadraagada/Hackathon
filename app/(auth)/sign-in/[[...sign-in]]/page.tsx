@@ -1,11 +1,12 @@
+// app/login/page.tsx
+"use client";
+
 import { SignIn } from "@clerk/nextjs";
 
-const SignInPage = () => {
+export default function LoginPage() {
   return (
-    <div className="flex h-screen w-full justify-center items-center bg-white-5">
+    <div className="flex justify-center items-center h-screen bg-gray-100">
       <SignIn />
     </div>
   );
-};
-
-export default SignInPage;
+}

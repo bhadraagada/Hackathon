@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
           {/* Logo or Brand Name */}
           <div className="mb-4 md:mb-0">
             <a href="/" className="text-2xl font-bold">
-              SureShare
+              TourSafe
             </a>
           </div>
 
@@ -22,7 +22,7 @@ const Footer: React.FC = () => {
               About
             </a>
             <a href="#" className="hover:underline">
-              Services
+              Features
             </a>
             <a href="#" className="hover:underline">
               Contact
@@ -45,7 +45,7 @@ const Footer: React.FC = () => {
 
         {/* Copyright */}
         <div className="text-center mt-4 text-sm">
-          © {new Date().getFullYear()} SureShare. All rights reserved.
+          © {new Date().getFullYear()} TourSafe. All rights reserved.
         </div>
       </div>
     </footer>

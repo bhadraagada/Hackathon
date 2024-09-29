@@ -1,11 +1,12 @@
+// app/signup/page.tsx
+"use client";
+
 import { SignUp } from "@clerk/nextjs";
 
-const SignUpPage = () => {
+export default function SignupPage() {
   return (
-    <div className="flex h-screen w-full justify-center items-center bg-white-5">
+    <div className="flex justify-center items-center h-screen bg-gray-100">
       <SignUp />
     </div>
   );
-};
-
-export default SignUpPage;
+}

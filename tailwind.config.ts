@@ -1,7 +1,6 @@
 import type { Config } from "tailwindcss";
 
 const config = {
-  // darkMode: ["class"],
   content: [
     "./pages/**/*.{ts,tsx}",
     "./components/**/*.{ts,tsx}",
@@ -39,6 +38,12 @@ const config = {
         },
         gray: {
           1: "#71788B",
+        },
+        whatsapp: {
+          100: "#d9fdd3",
+          500: "#25d366",
+          600: "#128c7e",
+          700: "#075e54",
         },
       },
       backgroundImage: {
